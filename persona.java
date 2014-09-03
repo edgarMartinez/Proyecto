@@ -5,8 +5,8 @@ public class persona
 	String nombre;
 	int edad;
 	String curp;
-	public persona()
+	public persona(String nombre)
 	{
-		//codigo que falla
+		this.nombre=nombre;
 	}
 }
