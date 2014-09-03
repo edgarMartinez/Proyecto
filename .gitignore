@@ -1,0 +1,2 @@
+#ignora artefactos generados por maven
+target/
